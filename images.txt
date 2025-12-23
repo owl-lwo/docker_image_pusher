@@ -5,3 +5,4 @@ sagikazarmark/dvwa
 area39/pikachu
 heizicao/ra2web
 acgpiano/sqli-labs
+amarsingh3d/apache2.4:latest
