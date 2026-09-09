@@ -7,3 +7,7 @@ heizicao/ra2web
 acgpiano/sqli-labs
 amarsingh3d/apache2.4:latest
 vulhub/geoserver:2.23.2
+nacos/nacos-server:v2.3.2
+vulhub/nexus:3.21.1
+whgojp/javaseclab:1.5
+mysql:8.0.33
