@@ -11,3 +11,4 @@ nacos/nacos-server:v2.3.2
 vulhub/nexus:3.21.1
 sibei/javaseclab:latest
 mysql:8.0.33
+swaggerapi/petstore
