@@ -12,3 +12,4 @@ vulhub/nexus:3.21.1
 sibei/javaseclab:latest
 mysql:8.0.33
 swaggerapi/petstore
+vulhub/minio:2023-02-27T18-10-45Z
