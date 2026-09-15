@@ -13,3 +13,4 @@ sibei/javaseclab:latest
 mysql:8.0.33
 swaggerapi/petstore
 vulhub/minio:2023-02-27T18-10-45Z
+halohub/halo:2.26
