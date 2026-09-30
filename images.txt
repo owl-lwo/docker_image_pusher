@@ -9,7 +9,6 @@ amarsingh3d/apache2.4:latest
 vulhub/geoserver:2.23.2
 nacos/nacos-server:v2.3.2
 vulhub/nexus:3.21.1
-sibei/javaseclab:latest
 mysql:8.0.33
 swaggerapi/petstore
 vulhub/minio:2023-02-27T18-10-45Z
