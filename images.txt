@@ -8,3 +8,9 @@ solr:9.6.1
 vulhub/spring-boot-jetty:3.2.4
 apache/zeppelin:0.10.1
 vulhub/tomcat:9.0.97
+vulhub/activemq:5.17.3
+vulhub/confluence:8.5.3
+vulhub/ofbiz:18.12.14
+vulhub/ofbiz:18.12.09
+vulhub/struts2:s2-066
+vulhub/struts2:s2-067
